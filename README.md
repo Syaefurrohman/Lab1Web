@@ -1,5 +1,7 @@
 Nama   : Syaefur rohman
+
 NIM    : 311910772
+
 Kelas  : TI 19 B 2
 
 Jawab Pertanyaan Berikut
